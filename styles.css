@@ -80,3 +80,21 @@ img{
 
 }
 
+@media(max-width:500px){
+  #team1-parent{
+    height: 100%;
+    width: 100%;
+  }
+  #team2-parent{
+    height: 100%;
+    width: 100%;
+  }
+  .section2{
+    display: flex;
+    flex-direction: column;
+  }
+  body{
+    background: size 100px;;
+  }
+
+}
